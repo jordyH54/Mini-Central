@@ -1,20 +1,20 @@
 #### Cordero Ocampo Martín Ramón
-<br>
+
 ##### Ensayo de la pagina web de abarrotes
-<br>
-#### <center>Instituto Tecnologico de Tlahuac</center>
-<br>
-#### <center> Ingenieria En Sistemas Computacionales </center>
-<br>
-#### <center>Grupo 7S2 Desarrollo FrondEnd</center> 
-<br>
-### <center>Mini Central</center> 
-<br>
-#### <center>Equipo:</center> 
-<br>
-#### <center> De Anda Flores Jessica</center>
-<br>
-#### <center>Hernandez Rosario Jordy Manuel </center>
+
+#### Instituto Tecnologico de Tlahuac
+
+####  Ingenieria En Sistemas Computacionales
+
+#### Grupo 7S2 Desarrollo FrondEnd
+
+### Mini Central
+
+#### Equipo:
+
+####  De Anda Flores Jessica
+
+#### Hernandez Rosario Jordy Manuel
 
 ### Tabla de contenido 
 - Resumen
