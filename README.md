@@ -131,7 +131,15 @@ Estilización: inicio.jsx puede importar estilos CSS específicos para aplicar e
 personalizados a la página de inicio, asegurando una presentación visual coherente con el
 resto de la aplicación.
 
-#aqui van imagenes
+![hu](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+
+![iki](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+
+![imajun2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+
+![imu2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+
+![yuen2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 
 Menu de opciones: Como primera instancia la versión realizada en React
 contiene una barra de navegación en la parte superior la cual cuenta con las
