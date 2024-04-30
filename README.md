@@ -1,6 +1,6 @@
-<center>Cordero Ocampo Martín Ramón</center>
+#### Cordero Ocampo Martín Ramón
 <br>
-##### <center>Ensayo de la pagina web de abarrotes</center>
+##### Ensayo de la pagina web de abarrotes
 <br>
 #### <center>Instituto Tecnologico de Tlahuac</center>
 <br>
