@@ -173,7 +173,8 @@ En la cual se encuentra una serie de productos los cuales al seleccionar el bot√
 agregar se agrega al carrito de compras.
 En este apartado se puede eliminar producto o lista de compras.
 
-#aqui van imagenes
+![ikuj2](https://github.com/jordyH54/Mini-Central/blob/main/1515.jpg?raw=true)
+
 
 - Al final de la p√°gina se encuentra un apartado de correo para aclaraciones.
 -  Una lista de contactos.
