@@ -135,7 +135,7 @@ resto de la aplicación.
 
 ![iki](https://github.com/jordyH54/Mini-Central/blob/main/buuuu2.jpg?raw=true)
 
-![imajun2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+![imajun2](https://github.com/jordyH54/Mini-Central/blob/main/oooo.jpg?raw=true)
 
 ![imu2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 
