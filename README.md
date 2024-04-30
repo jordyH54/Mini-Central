@@ -165,7 +165,8 @@ Para ello podremos ver cada uno de los productos contiene un boton de color azul
 imagen del producto y el precio conociendo esos daos oprimiremos el boton azul el cual
 se encargará de almacenar cada uno de los productos en el carrito.
 
-#aqui van imagenes
+![ijmuj2](https://github.com/jordyH54/Mini-Central/blob/main/1515.jpg?raw=true)
+
 
 - Apartado de productos.
 En la cual se encuentra una serie de productos los cuales al seleccionar el botón
