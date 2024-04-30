@@ -131,7 +131,7 @@ Estilización: inicio.jsx puede importar estilos CSS específicos para aplicar e
 personalizados a la página de inicio, asegurando una presentación visual coherente con el
 resto de la aplicación.
 
-![hu](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+![hu](https://github.com/jordyH54/Mini-Central/blob/main/buuu3.jpg?raw=true)
 
 ![iki](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 
