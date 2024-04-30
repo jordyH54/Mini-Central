@@ -84,7 +84,9 @@ limpio y organizado, promoviendo la reutilización y la coherencia visual en tod
 
 ![adada](https://github.com/jordyH54/Mini-Central/blob/main/imagen3.png?raw=true)
 
-![adaa](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+<br>
+
+![imagen2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 
 ## App.js
 En React JS, App.js es un componente principal que actúa como punto de entrada principal
