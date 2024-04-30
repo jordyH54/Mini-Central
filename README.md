@@ -133,7 +133,7 @@ resto de la aplicación.
 
 ![hu](https://github.com/jordyH54/Mini-Central/blob/main/buuu3.jpg?raw=true)
 
-![iki](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+![iki](https://github.com/jordyH54/Mini-Central/blob/main/buuuu2.jpg?raw=true)
 
 ![imajun2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 
