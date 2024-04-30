@@ -1,4 +1,4 @@
-<h1>><center>Cordero Ocampo Martín Ramón</center></h1> 
+<h1><center>Cordero Ocampo Martín Ramón</center></h1> 
 <br>
 ##### <center>Ensayo de la pagina web de abarrotes</center>
 <br>
