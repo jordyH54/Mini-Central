@@ -137,9 +137,8 @@ resto de la aplicación.
 
 ![imajun2](https://github.com/jordyH54/Mini-Central/blob/main/oooo.jpg?raw=true)
 
-![imu2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
+![ijmu2](https://github.com/jordyH54/Mini-Central/blob/main/mioo.jpg?raw=true)
 
-![yuen2](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 
 Menu de opciones: Como primera instancia la versión realizada en React
 contiene una barra de navegación en la parte superior la cual cuenta con las
