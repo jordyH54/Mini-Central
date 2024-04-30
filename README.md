@@ -82,6 +82,8 @@ Reutilización de Estilos: App.css también puede contener estilos reutilizables
 a múltiples componentes dentro de App.js. Esto puede ayudar a mantener un código CSS más
 limpio y organizado, promoviendo la reutilización y la coherencia visual en toda la aplicación.
 
+![adada](https://github.com/jordyH54/Mini-Central/blob/main/imagen3.png?raw=true)
+![adada](https://github.com/jordyH54/Mini-Central/blob/main/imagen2.png?raw=true)
 ## App.js
 En React JS, App.js es un componente principal que actúa como punto de entrada principal
 de tu aplicación. La función principal de App.js es definir la estructura y la lógica general de tu
