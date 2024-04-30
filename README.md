@@ -101,7 +101,9 @@ proveedor de estado correspondiente y configurar el estado global de tu aplicaci
 Diseño de la Interfaz de Usuario: Puedes definir la estructura general de tu interfaz de usuario
 en App.js, incluyendo la disposición de los diferentes componentes y cómo interactúan entre
 sí.
-8
+
+![js](https://github.com/jordyH54/Mini-Central/blob/main/js.jpg?raw=true)
+
 Manejo de Eventos Globales: Puedes manejar eventos globales en App.js, como la
 autenticación de usuario o la gestión de sesiones, y propagar estos eventos a lo largo de tu
 aplicación según sea necesario
