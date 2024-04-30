@@ -59,6 +59,8 @@ compras intuitivo, para que tu experiencia de compra sea fluida y personalizada.
 ## Cuerpo
 ##Arbol de desarrollo 
 
+(https://github.com/jordyH54/Mini-Central/blob/main/imagen1.jpg?raw=true)
+
 En primera instancia tenemos dentro del árbol de desarrollo se encuentra 
 
 
