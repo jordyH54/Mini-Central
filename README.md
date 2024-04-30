@@ -1,20 +1,20 @@
-#####<center>Cordero Ocampo Martín Ramón</center>
+##### <center>Cordero Ocampo Martín Ramón</center>
 <br>
-#####<center>Ensayo de la pagina web de abarrotes</center>
+##### <center>Ensayo de la pagina web de abarrotes</center>
 <br>
-####<center>Instituto Tecnologico de Tlahuac</center>
+#### <center>Instituto Tecnologico de Tlahuac</center>
 <br>
-####<center> Ingenieria En Sistemas Computacionales </center>
+#### <center> Ingenieria En Sistemas Computacionales </center>
 <br>
-####<center>Grupo 7S2 Desarrollo FrondEnd</center> 
+#### <center>Grupo 7S2 Desarrollo FrondEnd</center> 
 <br>
-###<center>Mini Central</center> 
+### <center>Mini Central</center> 
 <br>
-####<center>Equipo:</center> 
+#### <center>Equipo:</center> 
 <br>
-####<center> De Anda Flores Jessica</center>
+#### <center> De Anda Flores Jessica</center>
 <br>
-####<center>Hernandez Rosario Jordy Manuel </center>
+#### <center>Hernandez Rosario Jordy Manuel </center>
 
 ### Tabla de contenido 
 - Resumen
@@ -65,7 +65,7 @@ compras intuitivo, para que tu experiencia de compra sea fluida y personalizada.
 En primera instancia tenemos dentro del árbol de desarrollo se encuentra 
 
 
-##App.css
+## App.css
 El archivo App.css en React JS (o en cualquier aplicación web en general) se utiliza para
 definir estilos CSS específicos para el componente principal App.js y su contenido asociado.
 Aquí tienes algunas funciones principales de App.css en una aplicación React:
@@ -162,7 +162,7 @@ En este apartado se puede eliminar producto o lista de compras.
 - Al final de la página se encuentra un apartado de correo para aclaraciones.
 -  Una lista de contactos.
 
-##Conclusión
+## Conclusión
 En conclusión, una página web de frutas y verduras desarrollada con React JS ofrece una
 plataforma dinámica y atractiva para que los usuarios exploren, compren y disfruten de una
 amplia variedad de productos frescos y saludables. Al aprovechar las capacidades de React
@@ -183,14 +183,14 @@ En resumen, una página web de frutas y verduras en React JS representa una comb
 perfecta de tecnología moderna y nutrición saludable, brindando a los usuarios una experiencia
 en línea enriquecedora y satisfactoria que promueve el bienestar y el estilo de vida saludable.
 
-##Referencias
+## Referencias
 REACT: Crea tu primera web DESDE CERO. (12 de enero de 2022). Recuperado el 01 de
-abril de 2024, de (https://www.youtube.com/watch?v=pFyAu4R684s "crear tu primera web")
+abril de 2024, de (https://www.youtube.com/watch?v=pFyAu4R684s "crear tu primera web")<br>
 
-REACT: Day 1 Keynote | Tom Occhino. (2019). Recuperado el 01 de abril de 2024, de https://es.legacy.reactjs.org/community/videos.html
-
-
-REACT: A playlist of videos from React Conf ( 2021). Recuperado el 01 de abril de 2024, de https://www.youtube.com/watch?v=QnZHO7QvjaM&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8- fdNxJRh&t=13s
+REACT: Day 1 Keynote | Tom Occhino. (2019). Recuperado el 01 de abril de 2024, de https://es.legacy.reactjs.org/community/videos.html<br>
 
 
-REACT: Curso React: 1. Introducción - jonmircha ( 2021). Recuperado el 01 de abril de 2024, dehttps://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq- jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk
+REACT: A playlist of videos from React Conf ( 2021). Recuperado el 01 de abril de 2024, de https://www.youtube.com/watch?v=QnZHO7QvjaM&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8- fdNxJRh&t=13s<br>
+
+
+REACT: Curso React: 1. Introducción - jonmircha ( 2021). Recuperado el 01 de abril de 2024, dehttps://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq- jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk<br>
