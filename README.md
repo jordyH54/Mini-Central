@@ -57,7 +57,7 @@ integrado funcionalidades avanzadas, como filtros de búsqueda inteligentes y un
 compras intuitivo, para que tu experiencia de compra sea fluida y personalizada.
 
 ## Cuerpo
-##Arbol de desarrollo 
+## Arbol de desarrollo 
 
 ![Texto alternativo](https://github.com/jordyH54/Mini-Central/blob/main/imagen1.jpg?raw=true)
 
